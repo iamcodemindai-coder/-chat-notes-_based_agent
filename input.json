@@ -1,0 +1,6 @@
+{
+    "MasterCaseId": "TEST_MASTER_CASE_ID",
+    "Notes": "Caller name is Jane Smith. Email address is jane.smith@example.com.",
+    "chatqna": "bot: May I confirm your name?\nuser: Jane Smith.\nbot: Is your email jane.smith@example.com?\nuser: Yes.",
+    "AutomationReportId": "TEST_AUTOMATION_REPORT_ID"
+}
